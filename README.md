@@ -7,7 +7,7 @@ Included in this Repo is the jupyter notebook that I have hosted on google Colab
 Currently the repo is just the Google Colab that you can load anywhere.
 
 Current Use Cases:
- - Clinical Trial Indexing for Pharmaceuticals such as Covid-19 that this repo is for
+ - Clinical Trial Indexing for Pharmaceuticals/Healthcare Studies such as Covid-19 that this repo is for
 
  Previous Repos/Articles in this Series:
  - [NLP Building Westworld Rehoboam - ETL on Clinical Trial Study Attributes for Covid-19](https://medium.com/@mdavis_71283/nlp-how-to-build-westworlds-rehoboam-to-fight-covid-19-part-1-26c49b55dc0?source=friends_link&sk=f6cf2a2237c13bfadd60440fc2fe5136)
